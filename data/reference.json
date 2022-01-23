@@ -21,10 +21,10 @@
         "address": "917 Terrace Place, Urbana, Idaho, 684",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
+                "Title": "Data Smart",
+                "Author": "Foreman, John",
+                "Genre": "data_science",
+                "Pages": "235",
                 "Publisher": "Wiley"
             }
         ]
@@ -36,11 +36,11 @@
         "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "God Created the Integers",
+                "Author": "Hawking, Stephen",
+                "Genre": "mathematics",
+                "Pages": "197",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -51,11 +51,11 @@
         "address": "989 Huron Street, Talpa, Utah, 7018",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Superfreakonomics",
+                "Author": "Dubner, Stephen",
+                "Genre": "economics",
+                "Pages": "179",
+                "Publisher": "HarperCollins"
             }
         ]
     },
@@ -66,11 +66,11 @@
         "address": "534 Hinsdale Street, Albany, Palau, 3291",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Orientalism",
+                "Author": "Said, Edward",
+                "Genre": "history",
+                "Pages": "197",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -81,11 +81,11 @@
         "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Nature of Statistical Learning Theory, The",
+                "Author": "Vapnik, Vladimir",
+                "Genre": "data_science",
+                "Pages": "230",
+                "Publisher": "Springer"
             }
         ]
     },
@@ -96,11 +96,11 @@
         "address": "614 High Street, Blanford, Maryland, 2776",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Integration of the Indian States",
+                "Author": "Menon, V P",
+                "Genre": "history",
+                "Pages": "217",
+                "Publisher": "Orient Blackswan"
             }
         ]
     },
@@ -111,11 +111,11 @@
         "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Drunkard's Walk, The",
+                "Author": "Mlodinow, Leonard",
+                "Genre": "science",
+                "Pages": "197",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -126,11 +126,11 @@
         "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
+                "Title": "Image Processing & Mathematical Morphology",
+                "Author": "Shih, Frank",
                 "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Pages": "241",
+                "Publisher": "CRC"
             }
         ]
     },
@@ -141,11 +141,11 @@
         "address": "640 Prescott Place, Curtice, Kansas, 3395",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "How to Think Like Sherlock Holmes",
+                "Author": "Konnikova, Maria",
+                "Genre": "psychology",
+                "Pages": "240",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -156,11 +156,11 @@
         "address": "865 Revere Place, Homeland, Arizona, 232",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Data Scientists at Work",
+                "Author": "Sebastian Gutierrez",
+                "Genre": "data_science",
+                "Pages": "230",
+                "Publisher": "Apress"
             }
         ]
     },
@@ -171,11 +171,11 @@
         "address": "860 Centre Street, Hiwasse, Nevada, 2819",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Slaughterhouse Five",
+                "Author": "Vonnegut, Kurt",
+                "Genre": "fiction",
+                "Pages": "198",
+                "Publisher": "Random House"
             }
         ]
     },
@@ -186,11 +186,11 @@
         "address": "358 Sutton Street, Bellamy, Ohio, 8845",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Birth of a Theorem",
+                "Author": "Villani, Cedric",
+                "Genre": "mathematics",
+                "Pages": "234",
+                "Publisher": "Bodley Head"
             }
         ]
     },
@@ -201,11 +201,11 @@
         "address": "610 Langham Street, Boykin, Guam, 6688",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Structure & Interpretation of Computer Programs",
+                "Author": "Sussman, Gerald",
+                "Genre": "computer_science",
+                "Pages": "240",
+                "Publisher": "MIT Press"
             }
         ]
     },
@@ -216,11 +216,11 @@
         "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Age of Wrath, The",
+                "Author": "Eraly, Abraham",
+                "Genre": "history",
+                "Pages": "238",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -231,11 +231,11 @@
         "address": "836 Troutman Street, Harborton, Kentucky, 4030",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Trial, The",
+                "Author": "Kafka, Frank",
+                "Genre": "fiction",
+                "Pages": "198",
+                "Publisher": "Random House"
             }
         ]
     },
@@ -246,11 +246,11 @@
         "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Statistical Decision Theory'",
+                "Author": "Pratt, John",
+                "Genre": "data_science",
+                "Pages": "236",
+                "Publisher": "MIT Press"
             }
         ]
     },
@@ -261,11 +261,11 @@
         "address": "364 Holly Street, Omar, California, 5140",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Data Mining Handbook",
+                "Author": "Nisbet, Robert",
+                "Genre": "data_science",
+                "Pages": "242",
+                "Publisher": "Apress"
             }
         ]
     },
@@ -276,11 +276,11 @@
         "address": "878 Marconi Place, Gerton, Alabama, 845",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "New Machiavelli, The",
+                "Author": "Wells, H. G.",
+                "Genre": "fiction",
+                "Pages": "180",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -291,11 +291,11 @@
         "address": "674 Pine Street, Conestoga, Mississippi, 4727",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Physics & Philosophy",
+                "Author": "Heisenberg, Werner",
+                "Genre": "science",
+                "Pages": "197",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -306,11 +306,11 @@
         "address": "586 Java Street, Catherine, Arkansas, 1445",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Making Software",
+                "Author": "Oram, Andy",
+                "Genre": "computer_science",
+                "Pages": "232",
+                "Publisher": "O'Reilly"
             }
         ]
     },
@@ -321,11 +321,11 @@
         "address": "324 Herkimer Court, Boomer, Delaware, 5367",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Analysis, Vol I",
+                "Author": "Tao, Terence",
+                "Genre": "mathematics",
+                "Pages": "248",
+                "Publisher": "HBA"
             }
         ]
     },
@@ -336,11 +336,11 @@
         "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Machine Learning for Hackers",
+                "Author": "Conway, Drew",
+                "Genre": "data_science",
+                "Pages": "233",
+                "Publisher": "O'Reilly"
             }
         ]
     },
@@ -351,11 +351,11 @@
         "address": "236 Anchorage Place, Odessa, Michigan, 6314",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Signal and the Noise, The",
+                "Author": "Silver, Nate",
+                "Genre": "data_science",
+                "Pages": "233",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -366,11 +366,11 @@
         "address": "538 Ashford Street, Boling, West Virginia, 7840",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Python for Data Analysis",
+                "Author": "McKinney, Wes",
+                "Genre": "data_science",
+                "Pages": "233",
+                "Publisher": "O'Reilly"
             }
         ]
     },
@@ -381,11 +381,11 @@
         "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Introduction to Algorithms",
+                "Author": "Cormen, Thomas",
+                "Genre": "computer_science",
+                "Pages": "234",
+                "Publisher": "MIT Press"
             }
         ]
     },
@@ -396,11 +396,11 @@
         "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Beautiful and the Damned, The",
+                "Author": "Deb, Siddhartha",
+                "Genre": "nonfiction",
+                "Pages": "198",
+                "Publisher": "Penguin"
             }
         ]
     },
@@ -411,11 +411,11 @@
         "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Genre": "signal_processing",
-                "Pages": "228",
-                "Publisher": "Wiley"
+                "Title": "Outsider, The",
+                "Author": "Camus, Albert",
+                "Genre": "fiction",
+                "Pages": "198",
+                "Publisher": "Penguin"
             }
         ]
     }

@@ -8,10 +8,10 @@ with open("./data/books.csv", "r") as file:
     list_of_books = list(reader_books)
     # header_books = next(reader_books)
 
-def gen_func():
-    for k in range(0, len(list_of_books)):
-
-        yield int(list_of_books(k))
+# def gen_func():
+#     for k in range(0, len(list_of_books)):
+#
+#         yield int(list_of_books(k))
 
 
 with open("./data/users.json", "r") as file:
@@ -24,9 +24,11 @@ for i in range(i, len(users)):
          if key not in ('name', 'gender', 'address', 'age'):
              del users[i][key]
          users[i]["books"] = []
-         users[i]["books"].append(list_of_books[k])                  #сюда нужна функция - генератор, но я не понимаю как её написать
+         users[i]["books"].append(list_of_books[i])                  #сюда нужна функция - генератор, но я не понимаю как её написать
      print(users[i])
 
 
 with open("./data/reference.json", "w") as f:
     json.dump(users, f, indent=4)
+
+#print(2**2,5)

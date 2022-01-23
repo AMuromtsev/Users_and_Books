@@ -30,5 +30,3 @@ for i in range(i, len(users)):
 
 with open("./data/reference.json", "w") as f:
     json.dump(users, f, indent=4)
-
-#print(2**2,5)
